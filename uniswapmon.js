@@ -1,3 +1,5 @@
+// uniswapmon v1
+// send notifications via firebase (push), but later realized that send to telegram is easier and covers ios and android
 //const msg = require('./sendNotif.js');
 const msg = require('./sendTelegramNotif.js');
 

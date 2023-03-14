@@ -1,3 +1,5 @@
+// uniswapmon v2
+// Send notifications to telegram
 //const msg = require('./sendNotif.js');
 const msg = require('./sendTelegramNotif.js');
 const moment = require('moment-timezone');
