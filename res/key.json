@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uniswapmon",
+  "private_key_id": "40ec415c01d9583b13aff3a259edc2854641ca37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQ0kAC84AfowYM\nnMvgkF1R7E0mqKBK1GJGxvLhdIdE37wHQVGmISxZgUv5EdUT337HfyTZ1rTcAa5a\nnIypop3/2DWLaktXfx+UKintR4wrZrPUaaJ0l1iHh96BFhgLyD5hYRLvwlcmOSVe\nf6pMfNoEEtf/qOBY78i0dDKYaLmuuQiDM2nGk8jtlBB/B+Ls0CwVGxyhrdpuEGY0\n9zDZ0YFIaiJWW6OhKaqjEeJJD0Jrwoo3PuVXyWUBqClEKS0fEABw8MBGRDtmK6LI\nmBmhaaRA8mP39ZohDBgRyc1FYEWQr1dir67wTEqXwCXT94zg8fIB+yirm++k2x6U\nvvLvRk+9AgMBAAECggEACrS802noh7az+LGRQlIkdq7GxdSfYzbAUyCgEy8GQGG4\nIicXKI1K2MvoOTzQz9QFi/TYztJTM3RinAKqs4fC0fsjw6IPeszpsY7311JzvUXm\nsl04FwIrZ8dvgO7BDNmXWSbA8cnk7fDAGbgx4voDs3HD4TenSOgCQj4y2d2Ep5B9\nO8mjTN8Lfkt8MD8vKe5uSHYXU9BQ7kvrhZElh4yeMfpWVYyVQxxx3ktO+fEwSSGC\nsCYwplGCNDH7oGacjq/c/77fjlHBVNEgOOfkF+Mtv7teP2Sc7ifkNBLKiMawK65m\noC7LOBVsWQ1HLXT6DmoDQ2r1HZIEkGzUl/JL8TIzgQKBgQD3kBHaEv9n4a4CldJ7\n7NfL4Ls1nc/WgrUUIS3mk/s8S687Njk8D+198jEl3ggK3l12TM10K/UqcTLosyxM\nzitYAgkHEzLE1uZW81fle6CgoGiOJk4xP0UczXhrNG/OJGNSzrpm+UrqQHx71rnu\nKYoeADOt+LM8rDTEol3T4yVxzwKBgQDX8CtiGc0Jekzf6Y+oIkltFsjBsGO/wiYn\nTB3HLBLIwFi+59X/+LlbamNhzvo/TKYBgO25XG0t8HGb0DUvJn/OQOVWq6duvqBX\nQljQM9wW6PyUY7jBqVVuKi9bFvEA/rEF56jU2bMFB0r1+KhS4IsNf3oHdWnBaeo8\nU2DTM0eEswKBgQC1HReSXVexXi/6ADYPJ8TwiSctIJlPLCzh3yw/hn/FKvG19gOF\nZ3muLKO8OmXT3b6ur52Xohkoxcwi5gJA5oxbRJHqNSdtTnMRpdHmN73aBcC4Tlni\nOZGMct3oQGKTg5eOm2NPto4SNr9bskowbP9411j3q/0lJC8utELEo2dfjQKBgQC5\nWSgTy2uoD/b+Vx78xXlbDqyBPGNSTFatcnM464awFBHYw2x3i0mmwtnNMXixbpwr\nPDxQ15nLTdBmWr/b2eLn6eIwk6RitXMxkvxisbDfZVqwECyc5jkzFziQqk9xeCwA\nkojjMn2r+keIe8gXYy9YBax7zHdbEguBflvkzOY9awKBgQDK+rs5jzqEO8A6h2Zt\n61BXyzr3c2SuY2in0AZIBqvejjFwyTgfBq1HK3K64pR0vEYE6jP6ULIL/2cvx+50\nK1VgE2SSGrKDBeRWD7fM7eRdbuU0vuuvF+3YoB5kwhkviFUlsuCAQdLbPyHxfyVw\nsJlbatrNRPgAgz3aSfT4AX/yPQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v241w@uniswapmon.iam.gserviceaccount.com",
+  "client_id": "102745410998280880530",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v241w%40uniswapmon.iam.gserviceaccount.com"
+}
