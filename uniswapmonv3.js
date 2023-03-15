@@ -90,7 +90,7 @@ fs.createReadStream('input/input.csv')
 `
     checkPrice(query, lowprice, highprice); // start the price check and notification loop    
   })
-  .on('end', () => {    
+  .on('end', () => {
   });
 
 

@@ -1,0 +1,6 @@
+{
+    "crons": [{
+      "path": "/uniswapmonv3.js",
+      "schedule": "*/5 * * * *"
+    }]
+  }
